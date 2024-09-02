@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on cool projects.<br>🤝 I’m looking to connect with like-minded developers.<br>🌱 I’m currently learning and mastering my two stacks: Django & ASP .NET Core + React (Vite).<br>💬 Constantly looking for feedback to improve daily.<br>⚡ Fun fact: I love JavaScript and enjoy exploring its endless possibilities!<br><br>My name is Pablo, and I am a web developer with expertise two stacks: .Net Core + React & Django Stack. I love working with JavaScript and am always excited to learn and collaborate on new projects.
+🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on cool projects.<br>🤝 I’m looking to connect with like-minded developers.<br>🌱 I’m currently learning and mastering two tech stack: Django & ASP .NET Core + React (Vite).<br>💬 Constantly looking for feedback to improve daily.<br>⚡ Fun fact: I love JavaScript and enjoy exploring its endless possibilities!<br><br>My name is Pablo, and I am a web developer with expertise in: .Net Core + React & Django Stack. I love working with JavaScript and am always excited to learn and collaborate on new projects.
 
 
 ## 🌐 Socials:
