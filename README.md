@@ -4,7 +4,7 @@
 🤝 **Connector** looking to network with like-minded developers.<br>
 🌱 **Learner** currently mastering two tech stacks: **Django** & **ASP .NET Core + React (Vite)**.<br>
 💬 **Feedback Seeker** always open to constructive criticism to improve daily.<br>
-⚡ **Fun Fact**: I love JavaScript and enjoy exploring its endless possibilities!<br><br>
+⚡ **Fun Fact**: I have learned JS when i was 14yo it was used for Ares servers chat app customization... and i had no idea this was so powerful for the world!<br><br>
 
 Hi, I'm Pablo, a web developer with expertise in **.NET Core + React** and **Django**. I have a deep passion for JavaScript and am always excited to learn and collaborate on new projects.
 
