@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Web Developer** passionate about creating innovative solutions.<br>
+🔭 **Software Developer** passionate about creating innovative solutions.<br>
 👯 **Collaborator** eager to work on exciting projects.<br>
 🤝 **Connector** looking to network with like-minded developers.<br>
 🌱 **Learner** currently mastering two tech stacks: **Django** & **ASP .NET Core + React (Vite)**.<br>
