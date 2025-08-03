@@ -48,4 +48,4 @@ Profesional con experiencia en desarrollo de alto rendimiento, combinando tecnol
 ## 📩 **Contacto Profesional**
 [🔗 portafolio ](https://www.pablosan.dev) | [📧 mail ](pablo.hehe2@gmail.com) | [💼 [linkedin](https://www.linkedin.com/in/pablo-ignacio-santillan/)
 
-*"Transformo sistemas legacy en plataformas modernas sin perder continuidad de negocio, combinando PHP para lo existente y Rust para el futuro."*
+*"Transformo sistemas legacy en plataformas modernas sin perder continuidad de negocio, combinando PHP/React para lo existente y Rust para el futuro."*
