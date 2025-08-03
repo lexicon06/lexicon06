@@ -1,21 +1,25 @@
 # 👋 ¡Hola! Soy Pablo Santillán
 
-## 💻 **Desarrollador Full Stack | Especialista en Rendimiento y Sistemas Críticos**
+## 💻 **Desarrollador Full Stack | Especialista en Rendimiento y Migración de Sistemas**
 
-Profesional con experiencia en desarrollo de alto rendimiento, combinando tecnologías modernas como **Rust** con fundamentos web sólidos en **HTML5** y **JavaScript Vanilla**.
+Profesional con experiencia en desarrollo de alto rendimiento, combinando tecnologías modernas como Rust,Node,Python con fundamentos web sólidos en HTML5 y JavaScript Vanilla.
 
-## 🛠️ **Stack Tecnológico de Alto Impacto**
+## 🛠️ **Stack Tecnológico Estratégico**
 
-### 🔥 **Alto Rendimiento**
+### 🚀 **Nuevos Desarrollos**
 - **Rust** (sistemas concurrentes, procesamiento de datos)
 - C# (.NET Core para servicios empresariales)
 - Python (Django para desarrollo rápido)
+
+### ♻️ **Sistemas Legacy**
+- **PHP Vanilla** (mantenimiento y migración progresiva)
+- MySQL Legacy (optimización de sistemas heredados)
+- jQuery a Vanilla JS (modernización frontend)
 
 ### 🌐 **Frontend Comprobado**
 - **HTML5 Semántico** (W3C Validado, WCAG AA)
 - CSS3 (Tailwind, Grid/Flexbox)
 - **JavaScript Vanilla** (ES6+, Web Components)
-- React/Django (solo cuando es necesario)
 
 ### 🗃️ **Bases de Datos**
 - **MySQL/MariaDB** (optimización de queries complejas)
@@ -24,29 +28,24 @@ Profesional con experiencia en desarrollo de alto rendimiento, combinando tecnol
 
 ## 💼 **Experiencia Técnica Destacada**
 
-### 🦀 **Con Rust**
-- Desarrollo de microservicios de procesamiento de datos (20k req/seg)
-- Componentes críticos para sistemas financieros
-- Integración con WebAssembly para frontend de alto rendimiento
+### 🦀 **Proyectos con Rust**
+- Microservicios de alto rendimiento (20k req/seg)
+- Componentes financieros con seguridad certificada
+- Integración WASM para procesamiento frontend
 
-### 📝 **Con HTML/JS**
-- Migración de legacy systems a **HTML5 validado**
-- Implementación de **Web Components** vanilla JS
-- Dashboard administrativos con carga bajo 1s
+### 🐘 **Experiencia con PHP Legacy**
+- Migración de sistemas Monolíticos PHP a Microservicios
+- Refactorización de código legacy con mejoras del 300% en rendimiento
+- Integración segura entre sistemas nuevos y legacy
 
-### 🗄️ **Con Bases de Datos**
-- Replicación MariaDB para alta disponibilidad
-- Normalización de esquemas SQL para e-commerce
-- Optimización de índices en MySQL (reducción 60% query time)
-
-## 🏆 **Logros Clave**
-- Sistema de análisis en Rust con 40% menos uso de CPU
-- Refactorización HTML/CSS que mejoró SEO en 35%
-- Arquitectura MySQL que escaló a 1M+ registros
+### 📊 **Logros Clave**
+- Sistema Rust + PHP que redujo costos de infraestructura en 40%
+- Migración HTML4 → HTML5 con validación W3C
+- Arquitectura híbrida MySQL/MongoDB para e-commerce
 
 ## 📍 **Buenos Aires, Argentina** | **32 años**
 
 ## 📩 **Contacto Profesional**
-[🔗 Portafolio Técnico] | [📧 Correo] | [💼 LinkedIn]
+[🔗 Portafolio] | [📧 pablo@santillandev.com] | [💼 linkedin.com/in/pablosantillan]
 
-*"Especializado en construir sistemas donde el rendimiento de Rust se combina con la solidez de bases de datos SQL y la precisión de HTML semántico."*
+*"Transformo sistemas legacy en plataformas modernas sin perder continuidad de negocio, combinando PHP para lo existente y Rust para el futuro."*
