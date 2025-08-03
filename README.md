@@ -46,6 +46,6 @@ Profesional con experiencia en desarrollo de alto rendimiento, combinando tecnol
 ## 📍 **Buenos Aires, Argentina** | **32 años**
 
 ## 📩 **Contacto Profesional**
-[🔗 pablosan.dev] | [📧 pablo.hehe2@gmail.com] | [💼 linkedin.com/in/pablosantillan]
+[🔗 pablosan.dev] | [📧 pablo.hehe2@gmail.com] | [💼 linkedin.com/in/pabloignaciosantillan]
 
 *"Transformo sistemas legacy en plataformas modernas sin perder continuidad de negocio, combinando PHP para lo existente y Rust para el futuro."*
