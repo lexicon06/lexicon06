@@ -15,7 +15,7 @@ Profesional con experiencia en desarrollo de alto rendimiento, combinando tecnol
 - **HTML5 Semántico** (W3C Validado, WCAG AA)
 - CSS3 (Tailwind, Grid/Flexbox)
 - **JavaScript Vanilla** (ES6+, Web Components)
-- React (solo cuando es necesario)
+- React/Django (solo cuando es necesario)
 
 ### 🗃️ **Bases de Datos**
 - **MySQL/MariaDB** (optimización de queries complejas)
