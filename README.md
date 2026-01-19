@@ -81,7 +81,7 @@ Currently exploring game development through:
 🌐 **[Portfolio](https://www.pablosan.dev)**  
 ✉️ **[Email](mailto:pablo.hehe2@gmail.com)**  
 💼 **[LinkedIn](https://linkedin.com/in/pablo-ignacio-santillan)**  
-🐙 **[GitHub](https://github.com/YOUR_USERNAME)** *(Add your actual GitHub link)*
+🐙 **[GitHub](https://github.com/lexicon06)**
 
 ---
 
