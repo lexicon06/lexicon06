@@ -1,58 +1,88 @@
-<section style="font-family: 'Inter', sans-serif; max-width: 800px; margin: auto; line-height: 1.6;">
-  <h1 style="font-size: 2rem; font-weight: 700;">👨‍💻 Pablo Santillán</h1>
-  <p><strong>Full Stack Developer & Game Developer</strong> · C# / JavaScript Specialist<br>
-  📍 Buenos Aires, Argentina · 33 años</p>
+# 👨‍💻 Pablo Santillán
 
-  <hr style="margin: 1.5rem 0;">
+**Full Stack Developer & Aspiring Game Developer** · JavaScript Specialist  
+📍 Buenos Aires, Argentina · 33 años
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C#">
-    <img src="https://img.shields.io/badge/.NET%20Framework%20%7C%20.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET Framework / .NET Core">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
-    <img src="https://img.shields.io/badge/Web%20Development-HTML5%20%7C%20CSS3%20%7C%20Tailwind-0EA5E9?style=for-the-badge" alt="Web Development">
-    <img src="https://img.shields.io/badge/Game%20Development-Godot%20Engine-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge" alt="Godot Engine">
-  </p>
+---
 
-  <hr style="margin: 1.5rem 0;">
+## 🚀 Technical Stack
 
-  <h2>💼 Professional Focus</h2>
-  <p>
-    I build <strong>high-performance systems and real-time applications</strong> using
-    <strong>C# (.NET Framework / .NET Core)</strong> and <strong>JavaScript (Node.js, modern frontend)</strong>.
-  </p>
-  <p>My work focuses on:</p>
-  <ul>
-    <li><strong>System Migration & Optimization</strong> – transforming legacy platforms into modular, efficient architectures</li>
-    <li><strong>Cross-Stack Development</strong> – bridging desktop extensions with modern web tech</li>
-    <li><strong>Performance Profiling</strong> – concurrency, caching, and low-latency code design</li>
-    <li><strong>Indie Game Development</strong> – creating 2D/3D games and tools using <strong>Godot Engine</strong></li>
-  </ul>
+### **Core Expertise**
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-Expert-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Proficient-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-Proficient-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
-  <hr style="margin: 1.5rem 0;">
+### **Game Development**
+![SourcePawn](https://img.shields.io/badge/SourcePawn-Expert-FF6F00?logo=sourceengine&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-Proficient-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![Godot](https://img.shields.io/badge/Godot_Engine-Learning-478CBF?logo=godot-engine&logoColor=white&style=for-the-badge)
 
-  <h2>⚙️ Core Expertise</h2>
-  <ul>
-    <li>Backend development with <strong>C#</strong> and <strong>.NET</strong> (extensions, APIs, automation)</li>
-    <li>Full-stack apps using <strong>JavaScript / Node.js</strong></li>
-    <li>Integration of <strong>desktop and web ecosystems</strong></li>
-    <li>Technical refactoring and performance tuning</li>
-    <li>Real-time extensions for chat and community platforms</li>
-    <li>Game prototyping and mechanics scripting in <strong>Godot (GDScript / C#)</strong></li>
-  </ul>
+### **Modern Frontend & Tools**
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge)
 
-  <hr style="margin: 1.5rem 0;">
+---
 
-  <h2>📬 Contact</h2>
-  <p>
-    🌐 <a href="https://www.pablosan.dev" target="_blank"><strong>Portfolio</strong></a><br>
-    ✉️ <a href="mailto:pablo.hehe2@gmail.com"><strong>Email</strong></a><br>
-    💼 <a href="https://linkedin.com/in/pablo-ignacio-santillan" target="_blank"><strong>LinkedIn</strong></a>
-  </p>
+## 🎯 Professional Focus
 
-  <hr style="margin: 1.5rem 0;">
+I specialize in building **high-performance web applications** with modern JavaScript/React stacks while expanding into game development.
 
-  <p align="center">
-    <sub>Crafted with ❤️ — Passion for performance, legacy revival, and game creation.</sub>
-  </p>
-</section>
+### **Web Development**
+- **Frontend Architecture**: React, modern tooling (Vite, Webpack), state management
+- **Full Stack Solutions**: Node.js backends, PHP systems, REST APIs
+- **Performance Optimization**: Code splitting, caching strategies, bundle optimization
+- **Legacy System Migration**: Modernizing and refactoring existing codebases
+
+### **Game Development Journey**
+Currently exploring game development through:
+- **Godot Engine**: Learning GDScript and engine fundamentals
+- **Game Systems**: Applying software engineering principles to game architecture
+- **Source Engine Modding**: Experienced with SourcePawn for server/mods
+
+---
+
+## 💼 What I Build
+
+### **Production-Ready Web Apps**
+- Modern React applications with TypeScript
+- Full-stack solutions with Node.js/PHP backends
+- Real-time features and API integrations
+- Responsive, accessible frontends
+
+### **Game Development Projects**
+- Small prototypes and mechanics experiments in Godot
+- Source Engine modifications and server plugins
+- Tools and utilities for game development workflows
+
+---
+
+## 📈 Current Learning Path
+- **Deepening Godot Engine knowledge** (2D/3D, GDScript, game architecture)
+- **Advanced game design patterns**
+- **Shader programming and graphics optimization**
+- **Multiplayer/networking concepts**
+
+---
+
+## 🛠️ Technical Philosophy
+- **Clean, maintainable code** over clever one-liners
+- **Performance-aware development** from day one
+- **Progressive enhancement** and graceful degradation
+- **Continuous learning** with practical application
+
+---
+
+## 📬 Connect With Me
+
+🌐 **[Portfolio](https://www.pablosan.dev)**  
+✉️ **[Email](mailto:pablo.hehe2@gmail.com)**  
+💼 **[LinkedIn](https://linkedin.com/in/pablo-ignacio-santillan)**  
+🐙 **[GitHub](https://github.com/YOUR_USERNAME)** *(Add your actual GitHub link)*
+
+---
+
+> *"Master of web technologies, student of game development. Building robust systems by day, exploring game engines by night."*
