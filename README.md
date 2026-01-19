@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-Expert-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?logo=node.js&logoColor=white&style=for-the-badge)
+### **EXTRA**
 ![Python](https://img.shields.io/badge/Python-Proficient-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-Proficient-777BB4?logo=php&logoColor=white&style=for-the-badge)
 
