@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Pablo Santillán
 
 **Freelance Full Stack Developer & Aspiring Game Developer**  
-📍 Buenos Aires, Argentina • 🧠 JavaScript Specialist
+📍 Buenos Aires, Argentina • 🧠 JavaScript Specialist  
+🌍 Trilingual: Spanish (Native) • English (Fluent) • Portuguese (Fluent)
 
 > *Master of web technologies, student of game development.  
 > Building robust systems by day, exploring game engines by night.*
