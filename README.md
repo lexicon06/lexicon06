@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a **33-year-old freelance full stack developer** with a strong focus on **modern JavaScript ecosystems** and a growing passion for **game development**.
+I'm a freelance full stack developer specializing in **modern JavaScript ecosystems**, with a growing focus on **game development** and real-time systems.
 
 I specialize in building **scalable, performant, and maintainable web applications**, while continuously expanding my skills into **game engines, gameplay architecture, and real-time systems**.
 
