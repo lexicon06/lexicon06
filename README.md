@@ -25,16 +25,16 @@ I specialize in building **scalable, performant, and maintainable web applicatio
 ## 🧰 Tech Stack
 
 ### 🔥 Core Expertise
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-Expert-20232A?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?logo=node.js&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-Proficient-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?logo=node.js&logoColor=fff)
 
 ### 🧠 Additional Technologies
 ![Python](https://img.shields.io/badge/Python-Proficient-3776AB?logo=python&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-Proficient-777BB4?logo=php&logoColor=fff)
 
 ### 🎮 Game Development
-![SourcePawn](https://img.shields.io/badge/SourcePawn-Expert-FF6F00)
+![SourcePawn](https://img.shields.io/badge/SourcePawn-Proficient-FF6F00)
 ![C#](https://img.shields.io/badge/C%23-Proficient-239120?logo=csharp&logoColor=fff)
 ![Godot](https://img.shields.io/badge/Godot-Learning-478CBF?logo=godot-engine&logoColor=fff)
 
