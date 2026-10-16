@@ -1,24 +1,27 @@
 # 👋 Hi, I'm Pablo Santillán
 
-**Freelance Full Stack Developer & Aspiring Game Developer**  
-📍 Buenos Aires, Argentina • 🧠 JavaScript Specialist  🌍 Trilingual: Spanish (Native) • English (Fluent) • Portuguese (Fluent)
+**Full Stack Developer — JavaScript & Real-Time Systems**  
+📍 Buenos Aires, Argentina • 🌍 Trilingual: Spanish (Native) • English (Fluent) • Portuguese (Fluent)
 
-
-> *Master of web technologies, student of game development.  
-> Building robust systems by day, exploring game engines by night.*
+> *I build fast, scalable web applications — and I'm bringing that same engineering discipline to game development.*
 
 ---
 
 ## 🚀 About Me
 
-I'm a freelance full stack developer specializing in **modern JavaScript ecosystems**, with a growing focus on **game development** and real-time systems.
+I'm a **freelance full stack developer** with deep expertise in the **modern JavaScript ecosystem**. I help startups, agencies, and product teams ship **performant, maintainable, production-ready applications**.
 
-I specialize in building **scalable, performant, and maintainable web applications**, while continuously expanding my skills into **game engines, gameplay architecture, and real-time systems**.
+My focus:
+- **Shipping fast without breaking things** — clean architecture, tested code, real results
+- **Performance-first mindset** — from bundle size to API latency
+- **Full ownership** — from database to pixel, I handle the whole stack
 
-💼 **Currently available** for:
-- Freelance projects
-- Contract work
+I'm also expanding into **game development** (Godot, Source Engine), applying the same rigor to real-time systems and gameplay architecture.
+
+💼 **Available for:**
+- Freelance & contract projects
 - Long-term collaborations
+- Technical consulting & code audits
 
 ---
 
@@ -26,81 +29,65 @@ I specialize in building **scalable, performant, and maintainable web applicatio
 
 ### 🔥 Core Expertise
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-Proficient-20232A?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?logo=node.js&logoColor=fff)
 
 ### 🧠 Additional Technologies
 ![Python](https://img.shields.io/badge/Python-Proficient-3776AB?logo=python&logoColor=fff)
 ![PHP](https://img.shields.io/badge/PHP-Proficient-777BB4?logo=php&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-Proficient-239120?logo=csharp&logoColor=fff)
 
 ### 🎮 Game Development
 ![SourcePawn](https://img.shields.io/badge/SourcePawn-Proficient-FF6F00)
-![C#](https://img.shields.io/badge/C%23-Proficient-239120?logo=csharp&logoColor=fff)
 ![Godot](https://img.shields.io/badge/Godot-Learning-478CBF?logo=godot-engine&logoColor=fff)
 
-### ⚙️ Modern Frontend Tooling
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+### ⚙️ Tooling & Ecosystem
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 
 ---
 
-## 🧑‍💻 Professional Focus
+## 💡 What I Can Do For You
 
 ### 🌐 Web Development
-- React frontend architecture & state management
-- Full-stack solutions using **Node.js** and **PHP**
-- REST APIs & real-time integrations
-- Performance optimization (code splitting, caching, bundles)
-- Legacy system modernization & refactoring
+- **React + TypeScript applications** built for scale and maintainability
+- **Full-stack systems** with Node.js or PHP backends
+- **REST APIs & real-time features** (WebSockets, SSE)
+- **Performance optimization** — faster load times, smaller bundles, better UX
+- **Legacy modernization** — refactor, upgrade, or migrate without downtime
 
 ### 🎮 Game Development
-- Exploring **Godot Engine** (2D/3D)
-- Learning **GDScript** and game architecture patterns
-- Source Engine modding with **SourcePawn**
-- Applying software engineering principles to gameplay systems
+- **Godot prototypes** and gameplay systems
+- **Source Engine plugins & mods** (SourcePawn)
+- **Developer tools** that speed up your workflow
 
 ---
 
-## 🛠️ Services
-
-### Web Development
-- Modern React + TypeScript applications
-- Full-stack systems (Node.js / PHP)
-- Responsive & accessible UIs
-- API integrations & real-time features
-
-### Game Development Projects
-- Godot prototypes & gameplay experiments
-- Source Engine plugins & mods
-- Developer tools & workflow utilities
-
----
-
-## 📚 Currently Learning
-- Godot Engine (advanced 2D/3D, architecture)
-- Game design patterns
+## 📚 Currently Leveling Up
+- Godot Engine — advanced 2D/3D architecture
+- Game design patterns & real-time networking
 - Shader programming & graphics optimization
-- Multiplayer & networking concepts
 
 ---
 
-## 🧠 Technical Philosophy
-- Clean, readable, maintainable code
-- Performance awareness from day one
-- Progressive enhancement & graceful degradation
-- Continuous learning through real projects
+## 🧠 How I Work
+- **Clean, readable code** — your future self (and your team) will thank you
+- **Performance from day one** — not as an afterthought
+- **Clear communication** — no ghosting, no vague updates
+- **Ship, measure, improve** — pragmatic over perfect
 
 ---
 
-## 📫 Get in Touch
+## 📫 Let's Work Together
 
-🌐 Portfolio: [https://www.pablosan.dev](https://www.pablosan.dev)  
+🌐 Portfolio: [pablosan.dev](https://www.pablosan.dev)  
 📧 Email: [pablo.hehe2@gmail.com](mailto:pablo.hehe2@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/pablo-ignacio-santillan](https://linkedin.com/in/pablo-ignacio-santillan)  
 🐙 GitHub: [github.com/lexicon06](https://github.com/lexicon06)
 
 ---
 
-⭐ *If you like what I build, consider starring a repo or reaching out — always happy to collaborate.*
+⭐ *Got a project in mind? Let's talk — I reply fast and I deliver.*
