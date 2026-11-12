@@ -7,12 +7,11 @@ I build and maintain real-time applications, from backend services and protocols
 
 ---
 
-## What I'm working on
+## What I focus on
 
-- **[sb0t Pyxis](https://github.com/lexicon06/sb0t-Pyxis)** — A modernized Ares-compatible chat server on .NET 8 (Avalonia desktop GUI, Blazor web admin panel, hub/leaf linking, vrooms, extensions, and self-contained releases).
-- **[MercuryX](https://github.com/lexicon06/MercuryX)** — A modern web/mobile chat client focused on a smooth experience for real-time rooms and private messaging.
-
-I enjoy working close to the protocol and the product: messaging flows, compatibility, performance, and user experience.
+- Real-time communication: messaging flows, presence, protocols, and compatibility
+- Building reliable, performant systems from backend services to user-facing clients
+- Clean architecture, maintainability, and pragmatic product delivery
 
 ---
 
